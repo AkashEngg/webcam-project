@@ -1,0 +1,21 @@
+.error-template {
+    padding: 220px;
+    text-align: center;
+}
+
+.error-actions {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.error-actions .btn {
+    margin-right: 10px;
+}
+
+.color {
+    background-color: rgb(65, 14, 152) !important;
+}
+
+.color:hover {
+    background-color: rgb(54, 19, 114) !important;
+}
